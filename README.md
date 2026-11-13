@@ -1,5 +1,5 @@
 # Slay the Spire II AI
-Hannah Storer, Sam Pollak, Alan Tai
+Hannah Storer, Samuel Pollak, Alan Tai
 
 We built and trained three AI agents (Expectimax, Monte Carlo Tree Search, and Q-Learning) to play Slay the Spire II (STSII) with the goal of optimizing the first fight of the game to minimize HP lost. Slay the Spire II is a rogue-like deck building video game where you play as a character, battling enemies in card based combat in order to progress through a Spire. You start with a deck of basic cards and acquire additional cards and items after each fight. You battle enemies through strategic combat, choosing your moves based on player stats (HP, block, energy), enemy stats (HP, enemy intent for next move, block, strength). The fights in the game get progressively harder as you progress. Here, we compared how three AI agents we built and trained perform in the first fight.
 
