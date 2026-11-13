@@ -25,4 +25,6 @@ Q-Learning: 8.3
 
 Monte Carlo Tree Search: 9.1
 
-All three of our algorithms performed much better than the Random Choice Baseline. Expectimax performed the best with only an average of 7.4 HP lost in the first fight.
+All three of our algorithms performed much better than the Random Choice Baseline. 
+
+Expectimax performed the best with only an average of 7.4 HP lost in the first fight.
