@@ -18,8 +18,11 @@ Gameplay:
 For all performance tests we evaluated the algorithms with 1000 fights. Additionally, we compared our algorithms to a random choice baseline. Here are the results of how our algorithms performed in terms of mean HP lost.
 
 Random Choice Baseline: 44.1
+
 Expectimax: 7.4
+
 Q-Learning: 8.3
+
 Monte Carlo Tree Search: 9.1
 
 All three of our algorithms performed much better than the Random Choice Baseline. Expectimax performed the best with only an average of 7.4 HP lost in the first fight.
